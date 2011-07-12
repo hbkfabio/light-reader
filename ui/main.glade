@@ -3,7 +3,7 @@
   <!-- interface-requires gtk+ 3.0 -->
   <object class="GtkTreeModelFilter" id="treemodelfilter1"/>
   <object class="GtkTreeStore" id="treestore1"/>
-  <object class="GtkWindow" id="window1">
+  <object class="GtkWindow" id="wnMain">
     <property name="can_focus">False</property>
     <child>
       <object class="GtkBox" id="box1">
